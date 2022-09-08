@@ -1,0 +1,21 @@
+﻿  prob code3.cpp
+C:\Users\User\source\repos\prob code3\prob code3\prob code3.cpp(83,44): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\User\source\repos\prob code3\prob code3\prob code3.cpp(92,91): warning C4474: 'printf': 傳遞給格式字串的引數太多
+C:\Users\User\source\repos\prob code3\prob code3\prob code3.cpp(92,91): message : 預留位置及其參數需要 2 個 variadic 引數，但卻提供了 3 個
+C:\Users\User\source\repos\prob code3\prob code3\prob code3.cpp(116,25): warning C4305: '=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\User\source\repos\prob code3\prob code3\prob code3.cpp(118,31): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\User\source\repos\prob code3\prob code3\prob code3.cpp(164,27): warning C4305: '=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\User\source\repos\prob code3\prob code3\prob code3.cpp(166,31): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\User\source\repos\prob code3\prob code3\prob code3.cpp(245,43): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\User\source\repos\prob code3\prob code3\prob code3.cpp(322,43): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\User\source\repos\prob code3\prob code3\prob code3.cpp(17,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\source\repos\prob code3\prob code3\prob code3.cpp(19,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\source\repos\prob code3\prob code3\prob code3.cpp(122,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\source\repos\prob code3\prob code3\prob code3.cpp(134,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\source\repos\prob code3\prob code3\prob code3.cpp(171,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\source\repos\prob code3\prob code3\prob code3.cpp(182,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\source\repos\prob code3\prob code3\prob code3.cpp(261,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\source\repos\prob code3\prob code3\prob code3.cpp(273,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\source\repos\prob code3\prob code3\prob code3.cpp(337,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\source\repos\prob code3\prob code3\prob code3.cpp(348,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  prob code3.vcxproj -> C:\Users\User\source\repos\prob code3\Debug\prob code3.exe

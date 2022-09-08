@@ -1,0 +1,13 @@
+data1=load('C:\Users\User\source\repos\prob code3\prob code3\CDF_x_3.a.txt');
+data2=load('C:\Users\User\source\repos\prob code3\prob code3\CDF_y_3.a.txt');
+data3=load('C:\Users\User\source\repos\prob code3\prob code3\CDF2_x_3.a.txt');
+data4=load('C:\Users\User\source\repos\prob code3\prob code3\CDF2_y_3.a.txt');
+x1=data1(:,1);
+y1=data2(:,1);
+x2=data3(:,1);
+y2=data4(:,1);
+x=linspace(0,100);
+plot(x1,y1,'r--',x2,y2,'b');
+xlabel('X');
+ylabel('CDF');
+lengend('100次實驗','10000次實驗');
